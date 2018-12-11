@@ -1,0 +1,1 @@
+C:\Users\huong\Documents\Visual Studio 2017\Projects\EmployeeWebserviceREST\UWPConsumer\UWPConsumer.csproj;x86
