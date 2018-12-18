@@ -27911,11 +27911,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\huong\\Documents\\Visual Studio 2017\\Projects\\EmployeeWebserviceREST\\UWPConsumer\\UWPConsumer.csproj",
+      "projectUniqueName": "C:\\Users\\huong\\Documents\\Visual Studio 2017\\Projects\\Web_Service\\EmployeeWebserviceREST\\UWPConsumer\\UWPConsumer.csproj",
       "projectName": "UWPConsumer",
-      "projectPath": "C:\\Users\\huong\\Documents\\Visual Studio 2017\\Projects\\EmployeeWebserviceREST\\UWPConsumer\\UWPConsumer.csproj",
+      "projectPath": "C:\\Users\\huong\\Documents\\Visual Studio 2017\\Projects\\Web_Service\\EmployeeWebserviceREST\\UWPConsumer\\UWPConsumer.csproj",
       "packagesPath": "C:\\Users\\huong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\huong\\Documents\\Visual Studio 2017\\Projects\\EmployeeWebserviceREST\\UWPConsumer\\obj\\",
+      "outputPath": "C:\\Users\\huong\\Documents\\Visual Studio 2017\\Projects\\Web_Service\\EmployeeWebserviceREST\\UWPConsumer\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

@@ -218,3 +218,14 @@ C:\Users\huong\Documents\Visual Studio 2017\Projects\EmployeeWebserviceREST\UWPC
 C:\Users\huong\Documents\Visual Studio 2017\Projects\EmployeeWebserviceREST\UWPConsumer\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\huong\Documents\Visual Studio 2017\Projects\EmployeeWebserviceREST\UWPConsumer\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\huong\Documents\Visual Studio 2017\Projects\EmployeeWebserviceREST\UWPConsumer\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758300200000000.json
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\UWPConsumer\obj\x86\Debug\UWPConsumer.csprojAssemblyReference.cache
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\UWPConsumer\obj\x86\Debug\App.g.i.cs
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\UWPConsumer\obj\x86\Debug\App.g.cs
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\UWPConsumer\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\UWPConsumer\obj\x86\Debug\MainPage.g.cs
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\UWPConsumer\obj\x86\Debug\App.xaml
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\UWPConsumer\obj\x86\Debug\MainPage.xaml
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\UWPConsumer\obj\x86\Debug\App.xbf
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\UWPConsumer\obj\x86\Debug\MainPage.xbf
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\UWPConsumer\obj\x86\Debug\UWPConsumer.exe
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\UWPConsumer\obj\x86\Debug\UWPConsumer.pdb

@@ -1,0 +1,6 @@
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Book_WCFRest\Book_WCFRest\bin\Book_WCFRest.dll.config
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Book_WCFRest\Book_WCFRest\bin\Book_WCFRest.dll
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Book_WCFRest\Book_WCFRest\bin\Book_WCFRest.pdb
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Book_WCFRest\Book_WCFRest\obj\Debug\Book_WCFRest.csproj.CoreCompileInputs.cache
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Book_WCFRest\Book_WCFRest\obj\Debug\Book_WCFRest.dll
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Book_WCFRest\Book_WCFRest\obj\Debug\Book_WCFRest.pdb

@@ -5,3 +5,10 @@ C:\Users\huong\Documents\Visual Studio 2017\Projects\EmployeeWebserviceREST\Empl
 C:\Users\huong\Documents\Visual Studio 2017\Projects\EmployeeWebserviceREST\EmployeeWebserviceREST\bin\EmployeeWebserviceREST.pdb
 C:\Users\huong\Documents\Visual Studio 2017\Projects\EmployeeWebserviceREST\EmployeeWebserviceREST\obj\Debug\EmployeeWebserviceREST.dll
 C:\Users\huong\Documents\Visual Studio 2017\Projects\EmployeeWebserviceREST\EmployeeWebserviceREST\obj\Debug\EmployeeWebserviceREST.pdb
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\EmployeeWebserviceREST\bin\EmployeeWebserviceREST.dll.config
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\EmployeeWebserviceREST\bin\EmployeeWebserviceREST.dll
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\EmployeeWebserviceREST\bin\EmployeeWebserviceREST.pdb
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\EmployeeWebserviceREST\obj\Debug\EmployeeWebserviceREST.csprojAssemblyReference.cache
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\EmployeeWebserviceREST\obj\Debug\EmployeeWebserviceREST.csproj.CoreCompileInputs.cache
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\EmployeeWebserviceREST\obj\Debug\EmployeeWebserviceREST.dll
+C:\Users\huong\Documents\Visual Studio 2017\Projects\Web_Service\EmployeeWebserviceREST\EmployeeWebserviceREST\obj\Debug\EmployeeWebserviceREST.pdb
